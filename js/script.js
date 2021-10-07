@@ -6,4 +6,4 @@ const coloreUtente = prompt("Inserisci il tuo colore preferito")
 
 console.log ("Dati utente:", nomeUtente, cognomeUtente, coloreUtente)
 
-alert(`${nomeUtente}${cognomeUtente}${coloreUtente}21`)
+alert(nomeUtente + cognomeUtente + coloreUtente + "21")
